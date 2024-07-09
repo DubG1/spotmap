@@ -1,6 +1,6 @@
 # SpotMap for me and my friends
 
-currently working on basic UI and google maps API integration
+currently working on basic UI and mapbox integration
 
 upcoming features
 - create an account
